@@ -1,0 +1,12 @@
+{
+  "name": "to-do-app",
+  "version": "2.0.1",
+  "description": "This is a to do app using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Touseef hussain",
+  "type": "commonjs",
+  "license": "ISC"
+}
